@@ -56,7 +56,7 @@ The dataset includes the following key columns:
 customer_analysis_grocery_chain/
 │
 ├── customer_analysis_grocery_chain.ipynb  # Jupyter notebook with the analysis
-├── Grocery Database.xlsx                  # Source dataset (not included in repo, referenced)
+├── Grocery Database.xlsx                  # Source dataset 
 ├── README.md                             # Project documentation
 ```
 
